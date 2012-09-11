@@ -1,0 +1,15 @@
+Readme
+
+This project is about getting the next bus(es) from IITG to Guwahati City and vice versa.
+It shows max 3 buses available on current day.
+
+Features:
+>Simple interface
+>No input required, just open the app and you're done.
+>Shows you the Bus no. and its Route, you can check-out the nearest drop-off point from your destination and pick-up points.
+> Accessible and Readable in Mobile devices, minimum you need is GPRS Connectivity (to view the site)
+
+To be implemented:
+>A better GUI
+>capability to view more buses (after 3) And to check the buses on specific date
+>incorporation with Academic Calender, to include the other holiday buses. 
